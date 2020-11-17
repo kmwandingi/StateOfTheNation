@@ -1,0 +1,211 @@
+Age,Sex,Region,Age Pcnt per Sex Region
+under 18,Male,Zambezi,0.007751678
+18 - 24 ,Male,Zambezi,0.004621558
+25 - 34 ,Male,Zambezi,0.003160835
+35 - 44 ,Male,Zambezi,0.002326136
+45 - 54 ,Male,Zambezi,0.001491437
+55 - 64 ,Male,Zambezi,0.000865413
+64 + ,Male,Zambezi,0.000656738
+under 18,Female,Zambezi,0.00821975
+18 - 24 ,Female,Zambezi,0.004899871
+25 - 34 ,Female,Zambezi,0.003350594
+35 - 44 ,Female,Zambezi,0.002465293
+45 - 54 ,Female,Zambezi,0.001579991
+55 - 64 ,Female,Zambezi,0.000916015
+64 + ,Female,Zambezi,0.00069469
+under 18,Male,Erongo,0.012799283
+18 - 24 ,Male,Erongo,0.007630944
+25 - 34 ,Male,Erongo,0.005219053
+35 - 44 ,Male,Erongo,0.003840829
+45 - 54 ,Male,Erongo,0.002462606
+55 - 64 ,Male,Erongo,0.001428938
+64 + ,Male,Erongo,0.001084382
+under 18,Female,Erongo,0.013572146
+18 - 24 ,Female,Erongo,0.008090485
+25 - 34 ,Female,Erongo,0.005532376
+35 - 44 ,Female,Erongo,0.004070599
+45 - 54 ,Female,Erongo,0.002608823
+55 - 64 ,Female,Erongo,0.001512491
+64 + ,Female,Erongo,0.001147047
+under 18,Male,Hardap,0.00685032
+18 - 24 ,Male,Hardap,0.004084167
+25 - 34 ,Male,Hardap,0.002793296
+35 - 44 ,Male,Hardap,0.002055655
+45 - 54 ,Male,Hardap,0.001318014
+55 - 64 ,Male,Hardap,0.000764784
+64 + ,Male,Hardap,0.000580373
+under 18,Female,Hardap,0.007263966
+18 - 24 ,Female,Hardap,0.004330118
+25 - 34 ,Female,Hardap,0.00296099
+35 - 44 ,Female,Hardap,0.002178631
+45 - 54 ,Female,Hardap,0.001396271
+55 - 64 ,Female,Hardap,0.000809502
+64 + ,Female,Hardap,0.000613912
+under 18,Male,Karas,0.006670049
+18 - 24 ,Male,Karas,0.003976689
+25 - 34 ,Male,Karas,0.002719788
+35 - 44 ,Male,Karas,0.002001559
+45 - 54 ,Male,Karas,0.00128333
+55 - 64 ,Male,Karas,0.000744658
+64 + ,Male,Karas,0.0005651
+under 18,Female,Karas,0.007072809
+18 - 24 ,Female,Karas,0.004216168
+25 - 34 ,Female,Karas,0.002883069
+35 - 44 ,Female,Karas,0.002121298
+45 - 54 ,Female,Karas,0.001359527
+55 - 64 ,Female,Karas,0.000788199
+64 + ,Female,Karas,0.000597757
+under 18,Male,Kavango,0.019108788
+18 - 24 ,Male,Kavango,0.011392677
+25 - 34 ,Male,Kavango,0.007791825
+35 - 44 ,Male,Kavango,0.005734196
+45 - 54 ,Male,Kavango,0.003676566
+55 - 64 ,Male,Kavango,0.002133344
+64 + ,Male,Kavango,0.001618936
+under 18,Female,Kavango,0.020262641
+18 - 24 ,Female,Kavango,0.012078752
+25 - 34 ,Female,Kavango,0.008259603
+35 - 44 ,Female,Kavango,0.006077233
+45 - 54 ,Female,Kavango,0.003894863
+55 - 64 ,Female,Kavango,0.002258085
+64 + ,Female,Kavango,0.001712492
+under 18,Male,Khomas,0.027040738
+18 - 24 ,Male,Khomas,0.016121713
+25 - 34 ,Male,Khomas,0.011026168
+35 - 44 ,Male,Khomas,0.008114428
+45 - 54 ,Male,Khomas,0.005202688
+55 - 64 ,Male,Khomas,0.003018883
+64 + ,Male,Khomas,0.002290948
+under 18,Female,Khomas,0.028673548
+18 - 24 ,Female,Khomas,0.017092573
+25 - 34 ,Female,Khomas,0.011688118
+35 - 44 ,Female,Khomas,0.008599858
+45 - 54 ,Female,Khomas,0.005511598
+55 - 64 ,Female,Khomas,0.003195403
+64 + ,Female,Khomas,0.002423338
+under 18,Male,Kunene,0.007391135
+18 - 24 ,Male,Kunene,0.004406601
+25 - 34 ,Male,Kunene,0.003013819
+35 - 44 ,Male,Kunene,0.002217944
+45 - 54 ,Male,Kunene,0.001422068
+55 - 64 ,Male,Kunene,0.000825161
+64 + ,Male,Kunene,0.000626192
+under 18,Female,Kunene,0.007837436
+18 - 24 ,Female,Kunene,0.00467197
+25 - 34 ,Female,Kunene,0.003194752
+35 - 44 ,Female,Kunene,0.002350628
+45 - 54 ,Female,Kunene,0.001506503
+55 - 64 ,Female,Kunene,0.00087341
+64 + ,Female,Kunene,0.000662379
+under 18,Male,Ohangwena,0.020911504
+18 - 24 ,Male,Ohangwena,0.012467458
+25 - 34 ,Male,Ohangwena,0.008526903
+35 - 44 ,Male,Ohangwena,0.006275157
+45 - 54 ,Male,Ohangwena,0.004023412
+55 - 64 ,Male,Ohangwena,0.002334603
+64 + ,Male,Ohangwena,0.001771666
+under 18,Female,Ohangwena,0.022174211
+18 - 24 ,Female,Ohangwena,0.013218256
+25 - 34 ,Female,Ohangwena,0.009038811
+35 - 44 ,Female,Ohangwena,0.006650557
+45 - 54 ,Female,Ohangwena,0.004262302
+55 - 64 ,Female,Ohangwena,0.002471112
+64 + ,Female,Ohangwena,0.001874048
+under 18,Male,Omaheke,0.006129234
+18 - 24 ,Male,Omaheke,0.003654255
+25 - 34 ,Male,Omaheke,0.002499265
+35 - 44 ,Male,Omaheke,0.00183927
+45 - 54 ,Male,Omaheke,0.001179276
+55 - 64 ,Male,Omaheke,0.00068428
+64 + ,Male,Omaheke,0.000519282
+under 18,Female,Omaheke,0.006499338
+18 - 24 ,Female,Omaheke,0.003874317
+25 - 34 ,Female,Omaheke,0.002649307
+35 - 44 ,Female,Omaheke,0.001949301
+45 - 54 ,Female,Omaheke,0.001249296
+55 - 64 ,Female,Omaheke,0.000724291
+64 + ,Female,Omaheke,0.00054929
+under 18,Male,Omusati,0.020731232
+18 - 24 ,Male,Omusati,0.01235998
+25 - 34 ,Male,Omusati,0.008453395
+35 - 44 ,Male,Omusati,0.006221061
+45 - 54 ,Male,Omusati,0.003988727
+55 - 64 ,Male,Omusati,0.002314477
+64 + ,Male,Omusati,0.001756393
+under 18,Female,Omusati,0.021983054
+18 - 24 ,Female,Omusati,0.013104306
+25 - 34 ,Female,Omusati,0.00896089
+35 - 44 ,Female,Omusati,0.006593224
+45 - 54 ,Female,Omusati,0.004225558
+55 - 64 ,Female,Omusati,0.002449809
+64 + ,Female,Omusati,0.001857892
+under 18,Male,Oshana,0.015142813
+18 - 24 ,Male,Oshana,0.009028159
+25 - 34 ,Male,Oshana,0.006174654
+35 - 44 ,Male,Oshana,0.00454408
+45 - 54 ,Male,Oshana,0.002913505
+55 - 64 ,Male,Oshana,0.001690574
+64 + ,Male,Oshana,0.001282931
+under 18,Female,Oshana,0.016057187
+18 - 24 ,Female,Oshana,0.009571841
+25 - 34 ,Female,Oshana,0.006545346
+35 - 44 ,Female,Oshana,0.00481592
+45 - 54 ,Female,Oshana,0.003086495
+55 - 64 ,Female,Oshana,0.001789426
+64 + ,Female,Oshana,0.001357069
+under 18,Male,Oshikoto,0.015503356
+18 - 24 ,Male,Oshikoto,0.009243115
+25 - 34 ,Male,Oshikoto,0.00632167
+35 - 44 ,Male,Oshikoto,0.004652272
+45 - 54 ,Male,Oshikoto,0.002982874
+55 - 64 ,Male,Oshikoto,0.001730826
+64 + ,Male,Oshikoto,0.001313477
+under 18,Female,Oshikoto,0.016439501
+18 - 24 ,Female,Oshikoto,0.009799742
+25 - 34 ,Female,Oshikoto,0.006701188
+35 - 44 ,Female,Oshikoto,0.004930585
+45 - 54 ,Female,Oshikoto,0.003159983
+55 - 64 ,Female,Oshikoto,0.001832031
+64 + ,Female,Oshikoto,0.00138938
+under 18,Male,Otjozondjupa,0.012258468
+18 - 24 ,Male,Otjozondjupa,0.00730851
+25 - 34 ,Male,Otjozondjupa,0.004998529
+35 - 44 ,Male,Otjozondjupa,0.003678541
+45 - 54 ,Male,Otjozondjupa,0.002358552
+55 - 64 ,Male,Otjozondjupa,0.00136856
+64 + ,Male,Otjozondjupa,0.001038563
+under 18,Female,Otjozondjupa,0.012998675
+18 - 24 ,Female,Otjozondjupa,0.007748633
+25 - 34 ,Female,Otjozondjupa,0.005298613
+35 - 44 ,Female,Otjozondjupa,0.003898602
+45 - 54 ,Female,Otjozondjupa,0.002498591
+55 - 64 ,Female,Otjozondjupa,0.001448583
+64 + ,Female,Otjozondjupa,0.00109858
+under 18,Male,Abroad (Other African Country),0.000991494
+18 - 24 ,Male,Abroad (Other African Country),0.000591129
+25 - 34 ,Male,Abroad (Other African Country),0.000404293
+35 - 44 ,Male,Abroad (Other African Country),0.000297529
+45 - 54 ,Male,Abroad (Other African Country),0.000190765
+55 - 64 ,Male,Abroad (Other African Country),0.000110692
+64 + ,Male,Abroad (Other African Country),8.40014E-05
+under 18,Female,Abroad (Other African Country),0.001051363
+18 - 24 ,Female,Abroad (Other African Country),0.000626728
+25 - 34 ,Female,Abroad (Other African Country),0.000428564
+35 - 44 ,Female,Abroad (Other African Country),0.000315328
+45 - 54 ,Female,Abroad (Other African Country),0.000202092
+55 - 64 ,Female,Abroad (Other African Country),0.000117165
+64 + ,Female,Abroad (Other African Country),8.88557E-05
+under 18,Male,Abroad (Outside Africa),0.000991494
+18 - 24 ,Male,Abroad (Outside Africa),0.000591129
+25 - 34 ,Male,Abroad (Outside Africa),0.000404293
+35 - 44 ,Male,Abroad (Outside Africa),0.000297529
+45 - 54 ,Male,Abroad (Outside Africa),0.000190765
+55 - 64 ,Male,Abroad (Outside Africa),0.000110692
+64 + ,Male,Abroad (Outside Africa),8.40014E-05
+under 18,Female,Abroad (Outside Africa),0.001051363
+18 - 24 ,Female,Abroad (Outside Africa),0.000626728
+25 - 34 ,Female,Abroad (Outside Africa),0.000428564
+35 - 44 ,Female,Abroad (Outside Africa),0.000315328
+45 - 54 ,Female,Abroad (Outside Africa),0.000202092
+55 - 64 ,Female,Abroad (Outside Africa),0.000117165
+64 + ,Female,Abroad (Outside Africa),8.88557E-05

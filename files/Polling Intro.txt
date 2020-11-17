@@ -1,0 +1,3 @@
+Recent years have seen significant declines in econonomic well being and growing levels of political mistrust. 
+Anecdotally, more people are growing disillusioned due to what they perceive as unkept promises and rampant corruption. 
+Wanting to quantify this sentiment we developed a national survey designed to better undestand public opinion on politics and issues in this country.

@@ -1,0 +1,423 @@
+Timestamp,Resposnse ID,Where do you reside currently?,What is your age?,What is your gender?,Do you approve or disapprove of the way Hage Geingob is handling his job as president?,Which one of the following issues matters MOST to you right now?,"Did you vote in the 2014 presidential election, or not?","If the 2019 Namibia general election were being held today, which candidate would you vote for?",What is your education level?
+10/24/2019 17:49:18,1,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 17:52:07,2,Khomas,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,College Diploma
+10/24/2019 17:52:20,3,Khomas,35-44,Male,Strongly Disapprove,Education,"No, I did not",Henry Mudge,Grade 12
+10/24/2019 17:56:17,4,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Grade 12
+10/24/2019 18:00:54,5,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:01:29,6,Karas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/24/2019 18:04:02,7,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 18:04:49,8,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Post-Graduate Degree
+10/24/2019 18:04:57,9,Khomas,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:06:24,10,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:06:50,11,Khomas,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:09:20,12,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/24/2019 18:09:46,13,Oshikoto,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 18:10:02,14,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 18:10:39,15,Omusati,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 18:12:26,16,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:12:55,17,Omusati,18-24,Female,Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,
+10/24/2019 18:16:02,18,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,
+10/24/2019 18:16:29,19,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,Grade 12
+10/24/2019 18:18:08,20,Erongo,25-34,Female,Approve,Climate Change,"Yes, I did",Hage G. Geingob,College Diploma
+10/24/2019 18:18:52,21,Erongo,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 18:19:30,22,Ohangwena,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/24/2019 18:19:58,23,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,College Diploma
+10/24/2019 18:20:12,24,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/24/2019 18:23:25,25,Khomas,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:24:43,26,Khomas,25-34,Male,Disapprove,Education,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 18:30:50,27,Abroad (Outside Africa),25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 18:35:55,28,Khomas,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/24/2019 18:42:39,29,Khomas,45-54,Male,Disapprove,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,Post-Graduate Degree
+10/24/2019 18:45:44,30,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 18:45:54,31,Abroad (Outside Africa),25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 18:50:28,32,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:51:57,33,Oshana,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 18:53:50,34,Hardap,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:54:01,35,Erongo,18-24,Female,Approve,Jobs and the Economy,Not sure,Hage G. Geingob,Vocational Certificate
+10/24/2019 18:54:20,36,Oshana,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:54:57,37,Hardap,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 18:57:57,38,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 19:00:50,39,Oshikoto,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 19:01:40,40,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 19:05:19,41,Ohangwena,25-34,Female,Strongly Disapprove,Education,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 19:05:46,42,Oshana,25-34,Male,Strongly Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 19:07:27,43,Oshana,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/24/2019 19:08:14,44,Oshana,under 18,Male,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/24/2019 19:10:53,45,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Bernardus Swartbooi,
+10/24/2019 19:12:30,46,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:13:47,47,Erongo,25-34,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/24/2019 19:15:20,48,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 19:16:54,49,Erongo,25-34,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/24/2019 19:17:12,50,Erongo,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:18:37,51,Erongo,35-44,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:19:12,52,Erongo,25-34,Male,Strongly Approve,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:24:17,53,Khomas,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:25:37,54,Khomas,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Grade 10
+10/24/2019 19:29:09,55,Khomas,35-44,Female,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/24/2019 19:30:19,56,Karas,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:31:22,57,Erongo,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:32:52,58,Kavango,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:33:02,59,Khomas,45-54,Female,Approve,Environment,"No, I did not",Other,Bachelor's Degree
+10/24/2019 19:33:45,60,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,
+10/24/2019 19:34:04,61,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,
+10/24/2019 19:35:03,62,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 19:35:03,63,Abroad (Outside Africa),35-44,Male,Strongly Disapprove,Education,"No, I did not",McHenry Venaani,Bachelor's Degree
+10/24/2019 19:38:20,64,Erongo,25-34,Male,Strongly Disapprove,Education,"Yes, I did",Hage G. Geingob,Grade 12
+10/24/2019 19:38:48,65,Abroad (Other African Country),25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 19:38:56,66,Abroad (Other African Country),25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 19:39:49,67,Omusati,35-44,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 19:39:54,68,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Netumbo Ndaitwah,Bachelor's Degree
+10/24/2019 19:40:02,69,Khomas,35-44,Female,Disapprove,Land,"Yes, I did",Bernardus Swartbooi,Grade 12
+10/24/2019 19:45:48,70,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/24/2019 19:46:11,71,Oshikoto,25-34,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 19:46:53,72,Oshikoto,18-24,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:47:22,73,Oshana,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 19:48:18,74,Abroad (Other African Country),18-24,Female,Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Post-Graduate Degree
+10/24/2019 19:48:50,75,Oshikoto,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 19:49:28,76,Oshikoto,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 19:49:44,77,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 19:49:49,78,Erongo,25-34,Female,Neither Approve nor Disapprove,Education,"No, I did not",Henry Mudge,Post-Graduate Degree
+10/24/2019 19:50:35,79,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 19:50:43,80,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/24/2019 19:54:01,81,Khomas,under 18,Male,Neither Approve nor Disapprove,Education,"No, I did not",McHenry Venaani,Grade 12
+10/24/2019 19:57:22,82,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Post-Graduate Degree
+10/24/2019 19:57:54,83,Khomas,25-34,Male,Neither Approve nor Disapprove,Healthcare,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/24/2019 20:01:47,84,Oshana,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:01:52,85,Khomas,18-24,Male,Disapprove,Education,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 20:02:37,86,Khomas,25-34,Male,Disapprove,Education,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:04:31,87,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:05:06,88,Khomas,25-34,Female,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:05:15,89,Khomas,25-34,Female,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:06:16,90,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:06:28,91,Omusati,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:06:51,92,Omusati,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:07:08,93,Omusati,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:07:49,94,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,Not sure,Henry Mudge,Vocational Certificate
+10/24/2019 20:10:10,95,Oshikoto,25-34,Male,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:10:48,96,Omusati,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:11:11,97,Oshana,45-54,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 20:11:26,98,Khomas,18-24,Female,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/24/2019 20:13:09,99,Khomas,65+,Female,Neither Approve nor Disapprove,Education,"Yes, I did",Henry Mudge,Bachelor's Degree
+10/24/2019 20:13:20,100,Oshana,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:15:17,101,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:17:25,102,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:17:51,103,Oshikoto,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:18:35,104,Khomas,55-64,Female,Disapprove,Education,"Yes, I did",Ignatius N. Shixwameni,
+10/24/2019 20:19:52,105,Kavango,25-34,Male,Strongly Disapprove,Education,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:20:37,106,Kavango,18-24,Male,Strongly Disapprove,Education,"No, I did not",Hage G. Geingob,Grade 10
+10/24/2019 20:20:48,107,Erongo,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:21:14,108,Omusati,25-34,Male,Strongly Disapprove,Education,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 20:22:43,109,Oshana,18-24,Female,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:27:33,110,Otjozondjupa,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:28:36,111,Oshana,25-34,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/24/2019 20:28:44,112,Khomas,18-24,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:30:46,113,Oshana,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,College Diploma
+10/24/2019 20:31:10,114,Oshana,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,College Diploma
+10/24/2019 20:31:19,115,Otjozondjupa,25-34,Male,Approve,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,Bachelor's Degree
+10/24/2019 20:35:01,116,Omusati,25-34,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:35:18,117,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:36:45,118,Erongo,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 20:37:51,119,Khomas,18-24,Female,Disapprove,Jobs and the Economy,"No, I did not",Bernardus Swartbooi,Grade 12
+10/24/2019 20:41:55,120,Omusati,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Esther U. Muijangue,Bachelor's Degree
+10/24/2019 20:42:03,121,Oshana,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:43:07,122,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 20:43:48,123,Oshana,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/24/2019 20:44:52,124,Khomas,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:45:16,125,Oshana,18-24,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/24/2019 20:47:12,126,Kavango,25-34,Female,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 20:47:37,127,Kavango,25-34,Female,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 20:49:26,128,Khomas,25-34,Male,Neither Approve nor Disapprove,Healthcare,"Yes, I did",Hage G. Geingob,Post-Graduate Degree
+10/24/2019 20:50:02,129,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Post-Graduate Degree
+10/24/2019 20:50:42,130,Khomas,25-34,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:51:42,131,Khomas,25-34,Male,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Post-Graduate Degree
+10/24/2019 20:51:46,132,Erongo,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 20:52:07,133,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Grade 12
+10/24/2019 20:52:15,134,Hardap,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:52:53,135,Oshana,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 20:54:10,136,Erongo,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,Not sure,Hage G. Geingob,Bachelor's Degree
+10/24/2019 20:55:46,137,Erongo,25-34,Female,Strongly Approve,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:58:14,138,Kavango,45-54,Male,Strongly Approve,Climate Change,"Yes, I did",Hage G. Geingob,Grade 12
+10/24/2019 20:58:25,139,Khomas,25-34,Female,Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:59:43,140,Khomas,45-54,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 20:59:58,141,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 21:00:26,142,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 21:00:35,143,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 21:02:07,144,Oshana,18-24,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 21:03:14,145,Oshana,18-24,Male,Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Bachelor's Degree
+10/24/2019 21:03:44,146,Hardap,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 21:04:06,147,Erongo,25-34,Female,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 10
+10/24/2019 21:07:28,148,Oshikoto,18-24,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 21:08:13,149,Ohangwena,55-64,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 21:09:22,150,Oshikoto,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 21:11:42,151,Khomas,55-64,Male,Disapprove,Education,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/24/2019 21:12:58,152,Khomas,55-64,Male,Strongly Approve,Climate Change,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 21:15:41,153,Oshana,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/24/2019 21:19:14,154,Oshana,18-24,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/24/2019 21:19:38,155,Erongo,45-54,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 21:21:32,156,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,
+10/24/2019 21:24:38,157,Karas,45-54,Female,Strongly Disapprove,,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 21:24:42,158,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 21:24:46,159,Omusati,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/24/2019 21:31:06,160,Erongo,35-44,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,College Diploma
+10/24/2019 21:35:03,161,Oshikoto,25-34,Male,Disapprove,Healthcare,"Yes, I did",McHenry Venaani,Vocational Certificate
+10/24/2019 21:35:21,162,Oshikoto,25-34,Male,Disapprove,Healthcare,"Yes, I did",McHenry Venaani,Vocational Certificate
+10/24/2019 21:35:52,163,Otjozondjupa,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/24/2019 21:42:25,164,Erongo,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/24/2019 21:43:37,165,Erongo,18-24,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 21:44:20,166,Khomas,25-34,Female,Neither Approve nor Disapprove,Healthcare,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/24/2019 21:45:52,167,Erongo,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 21:46:28,168,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Grade 12
+10/24/2019 21:53:22,169,Erongo,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 22:02:33,170,Oshana,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/24/2019 22:07:30,171,Omusati,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/24/2019 22:08:06,172,Omusati,25-34,Female,Strongly Approve,Healthcare,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/24/2019 22:14:35,173,Khomas,65+,Female,Strongly Approve,Climate Change,"Yes, I did",Hage G. Geingob,
+10/24/2019 22:17:54,174,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Vocational Certificate
+10/24/2019 22:21:03,175,Karas,35-44,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 22:30:04,176,Erongo,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 22:34:01,177,Oshikoto,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 22:39:58,178,Oshana,35-44,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Post-Graduate Degree
+10/24/2019 22:45:31,179,Omusati,55-64,Female,Strongly Approve,Climate Change,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/24/2019 22:50:44,180,Erongo,18-24,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 22:55:23,181,Oshana,35-44,Female,Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Post-Graduate Degree
+10/24/2019 22:56:54,182,Erongo,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Ignatius N. Shixwameni,Bachelor's Degree
+10/24/2019 23:05:55,183,Khomas,18-24,Female,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Grade 12
+10/24/2019 23:06:01,184,Erongo,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 23:06:17,185,Khomas,25-34,Female,Disapprove,Climate Change,"No, I did not",Panduleni F. B. Itula,Doctorate
+10/24/2019 23:08:40,186,Omusati,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/24/2019 23:23:05,187,Omusati,25-34,Male,Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Grade 12
+10/24/2019 23:35:02,188,Oshana,25-34,Male,Strongly Disapprove,Healthcare,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/24/2019 23:52:26,189,Khomas,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 0:24:44,190,Oshana,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 1:07:29,191,Erongo,18-24,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 1:23:02,192,Omusati,under 18,Male,Strongly Approve,Healthcare,"Yes, I did",Hage G. Geingob,College Diploma
+10/25/2019 1:24:50,193,Khomas,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Post-Graduate Degree
+10/25/2019 2:08:17,194,Omusati,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 3:13:05,195,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 4:44:56,196,Khomas,35-44,Female,Strongly Disapprove,Healthcare,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 5:33:28,197,Khomas,35-44,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Grade 12
+10/25/2019 5:49:23,198,Khomas,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 6:05:39,199,Oshikoto,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 6:07:21,200,Omusati,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 6:07:37,201,Omusati,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 6:09:27,202,Oshana,45-54,Male,Neither Approve nor Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 6:15:51,203,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 6:29:48,204,Oshana,25-34,Female,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 6:48:58,205,Ohangwena,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 7:07:07,206,Ohangwena,45-54,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/25/2019 7:20:23,207,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Bernardus Swartbooi,Post-Graduate Degree
+10/25/2019 7:34:35,208,Omusati,25-34,Female,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 7:37:46,209,Kunene,25-34,Female,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 7:49:29,210,Erongo,35-44,Male,Strongly Approve,Climate Change,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 8:10:13,211,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Post-Graduate Degree
+10/25/2019 8:13:24,212,Khomas,18-24,Male,Approve,Jobs and the Economy,"No, I did not",Hage G. Geingob,Student
+10/25/2019 8:18:11,213,Khomas,25-34,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 8:20:31,214,Abroad (Outside Africa),35-44,Male,Neither Approve nor Disapprove,Corruption,"No, I did not",Bernardus Swartbooi,Bachelor's Degree
+10/25/2019 8:49:12,215,Kunene,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 8:49:21,216,Khomas,18-24,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 9:00:55,217,Erongo,45-54,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 9:08:50,218,Khomas,45-54,Female,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 9:40:41,219,Khomas,45-54,Female,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 9:42:47,220,Omaheke,45-54,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 9:50:03,221,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 9:51:36,222,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 9:53:09,223,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,Grade 12
+10/25/2019 10:13:11,224,Erongo,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 10:25:40,225,Oshana,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 11:25:17,226,Omusati,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 11:28:29,227,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 11:44:31,228,Khomas,25-34,Female,Approve,Jobs and the Economy,"No, I did not",Hage G. Geingob,Post-Graduate Degree
+10/25/2019 11:45:06,229,Abroad (Outside Africa),25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 11:46:27,230,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/25/2019 12:01:59,231,Khomas,35-44,Male,Disapprove,Jobs and the Economy,"No, I did not",McHenry Venaani,Post-Graduate Degree
+10/25/2019 12:07:20,232,Khomas,35-44,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,Post-Graduate Degree
+10/25/2019 12:08:13,233,Omusati,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/25/2019 12:09:54,234,Khomas,35-44,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 12:24:57,235,Omusati,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 12:33:35,236,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 12:36:19,237,Oshikoto,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 12:38:31,238,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 12:46:10,239,Omusati,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 12:56:16,240,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 12:58:03,241,Omusati,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 12:58:22,242,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 12:58:25,243,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 13:00:58,244,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 13:01:24,245,Khomas,18-24,Male,Approve,Jobs and the Economy,"No, I did not",Ignatius N. Shixwameni,undergraduate
+10/25/2019 13:12:24,246,Khomas,18-24,Female,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:14:23,247,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:15:00,248,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:15:06,249,Oshikoto,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Other,Bachelor's Degree
+10/25/2019 13:18:09,250,Oshikoto,35-44,Male,Strongly Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 13:18:09,251,Khomas,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Henry Mudge,Bachelor's Degree
+10/25/2019 13:22:51,252,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:26:11,253,Omusati,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 13:26:38,254,Oshana,18-24,Female,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/25/2019 13:28:24,255,Khomas,35-44,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 13:30:07,256,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 13:36:10,257,Oshana,35-44,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:37:02,258,Erongo,35-44,Male,Disapprove,Jobs and the Economy,"No, I did not",Other,Post-Graduate Degree
+10/25/2019 13:42:45,259,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:44:43,260,Karas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 13:46:46,261,Erongo,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 13:47:29,262,Oshana,35-44,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/25/2019 13:48:25,263,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 13:49:24,264,Khomas,55-64,Male,Approve,Education,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/25/2019 13:57:07,265,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 13:59:58,266,Erongo,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Post-Graduate Degree
+10/25/2019 14:00:46,267,Oshikoto,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 14:02:54,268,Oshana,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:06:44,269,Karas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 10
+10/25/2019 14:07:19,270,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:07:26,271,Karas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 10
+10/25/2019 14:08:13,272,Khomas,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:08:41,273,Oshana,18-24,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:09:23,274,Oshikoto,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:09:57,275,Khomas,25-34,Female,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 14:10:04,276,Khomas,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Bernardus Swartbooi,Post-Graduate Degree
+10/25/2019 14:12:09,277,Omusati,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:14:14,278,Oshikoto,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:14:46,279,Khomas,35-44,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:15:28,280,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:16:16,281,Karas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 14:16:51,282,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:18:44,283,Khomas,45-54,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:20:29,284,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:20:51,285,Erongo,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:21:07,286,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 14:21:33,287,Erongo,35-44,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:21:55,288,Otjozondjupa,35-44,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 14:22:09,289,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:22:25,290,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:22:38,291,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 14:23:17,292,Oshana,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:23:19,293,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Henry Mudge,Grade 12
+10/25/2019 14:23:21,294,Erongo,35-44,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:23:34,295,Oshikoto,25-34,Female,Disapprove,Education,"Yes, I did",McHenry Venaani,Post-Graduate Degree
+10/25/2019 14:23:45,296,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:24:04,297,Khomas,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Grade 10
+10/25/2019 14:24:46,298,Omusati,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:25:59,299,Oshikoto,18-24,Male,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/25/2019 14:26:32,300,Oshikoto,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:26:52,301,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:27:47,302,Khomas,25-34,Male,Neither Approve nor Disapprove,Healthcare,"No, I did not",Henry Mudge,Grade 12
+10/25/2019 14:28:52,303,Erongo,25-34,Male,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:29:50,304,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:30:17,305,Erongo,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:30:58,306,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:32:21,307,Omaheke,35-44,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 14:32:47,308,Khomas,35-44,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/25/2019 14:33:34,309,Oshana,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 10
+10/25/2019 14:33:47,310,Khomas,35-44,Female,Strongly Approve,Education,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 14:34:15,311,Oshikoto,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:34:37,312,Omusati,25-34,Female,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 14:34:57,313,Khomas,45-54,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 10
+10/25/2019 14:35:12,314,Khomas,55-64,Female,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:35:13,315,Oshana,45-54,Male,Strongly Approve,Healthcare,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 14:35:27,316,Khomas,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:38:30,317,Ohangwena,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:39:19,318,Erongo,35-44,Male,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/25/2019 14:39:42,319,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:39:43,320,Oshikoto,25-34,Male,Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,Grade 10
+10/25/2019 14:43:11,321,Oshikoto,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:43:22,322,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 14:44:52,323,Khomas,25-34,Female,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 14:49:37,324,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:49:51,325,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:49:51,326,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:49:52,327,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:49:54,328,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:49:56,329,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:50:04,330,Khomas,25-34,Female,Neither Approve nor Disapprove,Climate Change,"No, I did not",Hage G. Geingob,Grade 12
+10/25/2019 14:51:05,331,Otjozondjupa,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:51:16,332,Otjozondjupa,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:51:46,333,Khomas,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/25/2019 14:52:45,334,Oshana,45-54,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 14:56:44,335,Khomas,45-54,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 14:57:52,336,Khomas,45-54,Male,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/25/2019 14:58:58,337,Erongo,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:59:21,338,Erongo,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 14:59:42,339,Oshana,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:00:14,340,Erongo,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:02:45,341,Oshikoto,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:04:15,342,Erongo,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 15:05:16,343,Khomas,25-34,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:06:54,344,Oshikoto,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,Grade 12
+10/25/2019 15:08:43,345,Oshikoto,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 15:10:30,346,Khomas,45-54,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 15:11:46,347,Khomas,18-24,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 15:13:42,348,Kavango,35-44,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Masters degree in Education 
+10/25/2019 15:13:54,349,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 15:23:44,350,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:23:52,351,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:24:27,352,Otjozondjupa,45-54,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/25/2019 15:24:33,353,Omusati,18-24,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 15:31:34,354,Kavango,45-54,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 15:32:33,355,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,Not sure,McHenry Venaani,Post-Graduate Degree
+10/25/2019 15:34:49,356,Oshana,35-44,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 15:35:09,357,Erongo,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 15:45:37,358,Oshikoto,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 15:46:54,359,Oshana,35-44,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,College Diploma
+10/25/2019 15:47:05,360,Otjozondjupa,35-44,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 15:49:49,361,Otjozondjupa,35-44,Male,Neither Approve nor Disapprove,Climate Change,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/25/2019 15:55:34,362,Omusati,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 10
+10/25/2019 16:01:45,363,Otjozondjupa,35-44,Female,Strongly Disapprove,Healthcare,"No, I did not",McHenry Venaani,Grade 12
+10/25/2019 16:01:48,364,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 16:07:09,365,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 16:08:46,366,Otjozondjupa,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 16:20:03,367,Erongo,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 16:41:42,368,Khomas,35-44,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 16:46:37,369,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 16:46:57,370,Omusati,25-34,Female,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 10
+10/25/2019 16:55:11,371,Abroad (Outside Africa),25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 16:58:34,372,Khomas,25-34,Male,Strongly Disapprove,Healthcare,"Yes, I did",McHenry Venaani,Bachelor's Degree
+10/25/2019 16:59:47,373,Khomas,25-34,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 17:00:14,374,Ohangwena,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",McHenry Venaani,College Diploma
+10/25/2019 17:03:40,375,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 17:12:24,376,Kunene,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 17:25:02,377,Erongo,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 17:26:27,378,Otjozondjupa,25-34,Female,Strongly Disapprove,Jobs and the Economy,Not sure,Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 17:42:34,379,Abroad (Outside Africa),35-44,Female,Strongly Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/25/2019 17:48:53,380,Erongo,25-34,Male,Strongly Disapprove,Climate Change,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/25/2019 18:34:06,381,Oshikoto,55-64,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 19:01:35,382,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Esther U. Muijangue,Grade 10
+10/25/2019 19:06:40,383,Otjozondjupa,35-44,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 19:31:31,384,Otjozondjupa,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 19:32:17,385,Oshikoto,25-34,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/25/2019 19:42:59,386,Ohangwena,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 19:45:16,387,Khomas,45-54,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 20:39:15,388,Kunene,35-44,Male,Strongly Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 10
+10/25/2019 20:50:20,389,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 20:52:28,390,Erongo,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/25/2019 20:52:52,391,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,College Diploma
+10/25/2019 21:05:18,392,Kavango,35-44,Male,Approve,Healthcare,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 21:05:51,393,Kavango,35-44,Male,Approve,Healthcare,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 21:06:07,394,Kavango,35-44,Male,Approve,Healthcare,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 21:06:13,395,Kavango,35-44,Male,Approve,Healthcare,"Yes, I did",Hage G. Geingob,Vocational Certificate
+10/25/2019 21:37:12,396,Khomas,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Bachelor's Degree
+10/25/2019 21:48:47,397,Oshikoto,25-34,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 21:58:34,398,Khomas,18-24,Male,Strongly Approve,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Bachelor's Degree
+10/25/2019 22:00:13,399,Kavango,25-34,Male,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Ignatius N. Shixwameni,Bachelor's Degree
+10/25/2019 22:09:12,400,Omusati,18-24,Female,Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/25/2019 23:09:56,401,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/25/2019 23:20:08,402,Omusati,18-24,Male,Neither Approve nor Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Grade 12
+10/26/2019 2:23:26,403,Erongo,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/26/2019 5:47:11,404,Oshana,25-34,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 12
+10/26/2019 5:55:45,405,Khomas,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/26/2019 6:26:46,406,Oshikoto,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/26/2019 6:27:11,407,Oshikoto,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Vocational Certificate
+10/26/2019 7:21:01,408,Erongo,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 12
+10/26/2019 9:22:58,409,Khomas,25-34,Female,Neither Approve nor Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/26/2019 9:57:30,410,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/26/2019 11:36:46,411,Khomas,18-24,Male,Strongly Disapprove,Jobs and the Economy,"No, I did not",Hage G. Geingob,Bachelor's Degree
+10/26/2019 11:45:44,412,Ohangwena,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,College Diploma
+10/26/2019 14:07:39,413,Khomas,35-44,Male,Approve,Jobs and the Economy,"Yes, I did",Hage G. Geingob,Grade 10
+10/26/2019 15:50:26,414,Khomas,35-44,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/26/2019 18:07:17,415,Hardap,18-24,Female,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Bachelor's Degree
+10/26/2019 18:16:32,416,Oshana,45-54,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/26/2019 18:58:06,417,Abroad (Outside Africa),35-44,Female,Strongly Disapprove,Jobs and the Economy,"No, I did not",Panduleni F. B. Itula,Vocational Certificate
+10/26/2019 19:59:11,418,Oshana,35-44,Male,Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Grade 10
+10/26/2019 21:47:40,419,Oshikoto,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/26/2019 22:11:33,420,Oshikoto,25-34,Male,Strongly Disapprove,Jobs and the Economy,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/26/2019 22:28:33,421,Khomas,35-44,Male,Strongly Disapprove,Healthcare,"Yes, I did",Panduleni F. B. Itula,Post-Graduate Degree
+10/26/2019 22:28:34,422,Zambezi,35-44,Male,,,,,

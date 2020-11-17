@@ -1,0 +1,10 @@
+name: sotn
+title:
+username:
+account: ergoanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1410281
+bundleId: 2568444
+url: https://ergoanalytics.shinyapps.io/sotn/
+when: 1573049251.24135
